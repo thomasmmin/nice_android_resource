@@ -1,0 +1,1 @@
+# nice_android_resource
