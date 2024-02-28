@@ -5,9 +5,9 @@
 Materia you 风格的 F-Droid 客户端，提供许多开源软件，本文大部分 app 可在此下载。
 - [**Joplin**](https://f-droid.org/zh_Hans/packages/net.cozic.joplin/)
 全平台同步的 Markdown 笔记应用，开源。
-* [**YTDLnis**](https://apt.izzysoft.de/fdroid/index/apk/com.deniscerri.ytdl)
+- [**YTDLnis**](https://apt.izzysoft.de/fdroid/index/apk/com.deniscerri.ytdl)
 Youtube 视频下载。
-* [**Stitch**](https://f-droid.org/zh_Hans/packages/soko.ekibun.stitch/)
+- [**Stitch**](https://f-droid.org/zh_Hans/packages/soko.ekibun.stitch/)
 截图拼接工具。
 - [**SD Maid SE**](https://apt.izzysoft.de/fdroid/index/apk/eu.darken.sdmse)
 应用垃圾清理。
@@ -19,7 +19,7 @@ Youtube 视频下载。
 ## 模组（Magisk\ Xposed)
 - [**Thanox**](https://github.com/Tornaco/Thanox/releases)
 app后台管理，支持一键清理后台、锁屏清理后台等功能。
-* [**Xposed edge**](https://play.google.com/store/apps/details?id=com.jozein.xedge&hl=en_US&pli=1)
+- [**Xposed edge**](https://play.google.com/store/apps/details?id=com.jozein.xedge&hl=en_US&pli=1)
 超全的手势控制。
 - [**米窗**](https://github.com/sunshine0523/Mi-Freeform/tree/3.0-preview)
 提供类似miui中的小窗功能，反应快速。
