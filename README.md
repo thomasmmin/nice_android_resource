@@ -35,4 +35,5 @@ app后台管理，支持一键清理后台、锁屏清理后台等功能。
 同样提供多项系统自定义功能以及美化功能。
 - [**Magisk Module Pixel Enabler China For VoTEL**](https://github.com/CHN-MuXin/MagiskModuleEnableChinaForVoTELtoPIxel)
 让Pixel能使用中国电信的 VoLTE通话。
-
+- [**Pixel Launcher Double Tap to Sleep**](https://github.com/uragiristereo/Pixel_Launcher_Double_Tap_to_Sleep)
+让Pixel实现桌面双击锁屏。
